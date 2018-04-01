@@ -15,7 +15,7 @@ int main()
 	cin >> mode;
 	if (mode == "download") {
 		cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-		cout << "\tGet EternalBlue Doublepulsar from here https://github.com/ \n";
+		cout << "\tGet EternalBlue Doublepulsar from here https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit \n";
 		cout << "write [exit] to exit the programe\n";
 		cout << "|<";
 		cin >> b;
