@@ -1,2 +1,3 @@
-# eternalblue
-this is a script that will help you with eternal blue double pulsar
+to run it open the terminal and type
+g++ eternalhelp.cpp -o eternalhelp
+./eternalhelp
